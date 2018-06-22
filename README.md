@@ -1,0 +1,2 @@
+# dumbsort
+Dumbsort algorithm
